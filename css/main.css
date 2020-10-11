@@ -132,8 +132,7 @@ main {
   transition: all 0.5s;
 }
 
-.portfolio-list .item-thum > a:hover,
-.portfolio-list .item-thum > a:focus {
+.portfolio-list .item-thum > a:hover {
   opacity: 0.6;
 }
 
