@@ -267,11 +267,9 @@ footer {
 
 .mfp-title a {
   color: rgba(255, 255, 255, 0.5);
-  font-weight: 100;
 }
 
 .mfp-title .tag > span {
   background: #fff;
   color: #222;
-  font-weight: 300;
 }
